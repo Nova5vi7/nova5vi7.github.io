@@ -1,22 +1,20 @@
 @font-face {
   font-family: "Inter";
-  src: url(./static/media/Inter-SemiBold.4260b090.eot);
-  src: url(./static/media/Inter-SemiBold.4260b090.eot)
-      format("embedded-opentype"),
-    url(./static/media/Inter-SemiBold.d5d9d764.woff) format("woff"),
-    url(./static/media/Inter-SemiBold.bb1398cc.ttf) format("truetype"),
-    url(./static/media/Inter-SemiBold.aac0d603.svg) format("svg");
+  src: url(../media/Inter-SemiBold.4260b090.eot);
+  src: url(../media/Inter-SemiBold.4260b090.eot) format("embedded-opentype"),
+    url(../media/Inter-SemiBold.d5d9d764.woff) format("woff"),
+    url(../media/Inter-SemiBold.bb1398cc.ttf) format("truetype"),
+    url(../media/Inter-SemiBold.aac0d603.svg) format("svg");
   font-weight: 600;
   font-style: normal;
 }
 @font-face {
   font-family: "Inter";
-  src: url(./static/media/Inter-Regular.07bf7015.eot);
-  src: url(./static/media/Inter-Regular.07bf7015.eot)
-      format("embedded-opentype"),
-    url(./static/media/Inter-Regular.678f9520.woff) format("woff"),
-    url(./static/media/Inter-Regular.bed1dd5f.ttf) format("truetype"),
-    url(./static/media/Inter-Regular.ccab5002.svg) format("svg");
+  src: url(../media/Inter-Regular.07bf7015.eot);
+  src: url(../media/Inter-Regular.07bf7015.eot) format("embedded-opentype"),
+    url(../media/Inter-Regular.678f9520.woff) format("woff"),
+    url(../media/Inter-Regular.bed1dd5f.ttf) format("truetype"),
+    url(../media/Inter-Regular.ccab5002.svg) format("svg");
   font-weight: 400;
   font-style: normal;
 }
@@ -42,7 +40,7 @@ h6 {
 .start-screen {
   height: 100vh;
   max-width: 100%;
-  background-image: url(./static/media/main-bg.c7cf242a.png);
+  background-image: url(../media/main-bg.c7cf242a.png);
   background-repeat: no-repeat;
   background-size: cover;
 }
